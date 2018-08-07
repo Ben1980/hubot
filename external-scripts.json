@@ -12,5 +12,6 @@
   "hubot-circleci",
   "hubot-http-status",
   "hubot-tell",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-heroku-deploy-notifier"
 ]
