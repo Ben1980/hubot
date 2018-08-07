@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-circleci",
   "hubot-http-status",
-  "hubot-tell"
+  "hubot-tell",
+  "hubot-calculator"
 ]
